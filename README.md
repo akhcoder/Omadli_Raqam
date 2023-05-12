@@ -1,2 +1,5 @@
 # My_project
-Works I've done in web programming
+**Qiziqishga qilib ko'rgan edim.**
+
+Oddiy Js , css da qilindi . Boshqa hech narsa qo'shilmagan.
+**Math.random()** - dan foydalanildi
